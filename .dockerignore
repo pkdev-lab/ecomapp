@@ -1,0 +1,11 @@
+.git
+.github
+target/*.original
+target/test-classes
+target/surefire-reports
+target/maven-status
+bin
+.idea
+.vscode
+README.md
+docs
